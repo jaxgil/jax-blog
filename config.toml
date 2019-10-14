@@ -4,7 +4,7 @@ title = "Jax Gil"
 theme = "kross-hugo-portfolio-template"
 summaryLength = "10"
 builddrafts = false
-publishdir = "../jaxgil.github.io"
+publishdir = "~/www/jaxgil.github.io/"
 
 ## Plugins
 [params.plugins]
