@@ -1,6 +1,6 @@
 baseURL = "https://jaxgil.github.io"
 languageCode = "en-us"
-title = "Kross | Hugo Portfolio Template"
+title = "Jax Gil"
 theme = "kross-hugo-portfolio-template"
 summaryLength = "10"
 builddrafts = false
@@ -70,6 +70,6 @@ googleAnalitycsID = "Your ID"
   formAction = "#" #contact form works with formspree.io
 
   [params.footer]
-  email = "steve.fruits@email.com"
-  phone = "+880 2544 658 256"
-  address = "125/A, CA Commercial Area, California, USA"
+  email = "write.jaxgil@gmail.com"
+  phone = ""
+  address = ""
