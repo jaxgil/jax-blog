@@ -1,5 +1,5 @@
 git add .
-git commit -m "update"
+git commit -m "Update (`date`)"
 git push
 
 echo -e "\033[0;32mDeploying new blog...\033[0m"
