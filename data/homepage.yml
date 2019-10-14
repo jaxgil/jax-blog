@@ -1,18 +1,15 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Jax <br>"
+  title : "Jax Gil"
   socialLinks:
     - icon : "ti-facebook"
-      URL : "#"
+      URL : "jax.gi"
 
     - icon : "ti-instagram"
-      URL : "#"
-
-    - icon : "ti-dribbble"
-      URL : "#"
+      URL : "https://www.instagram.com/jaxgi/"
 
     - icon : "ti-twitter"
-      URL : "#"
+      URL : "https://twitter.com/hijx_de_la_luna"
 
 # about
 about:
