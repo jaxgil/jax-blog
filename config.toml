@@ -6,7 +6,7 @@ summaryLength = "10"
 builddrafts = false
 publishdir = "../jaxgil.github.io"
 
-# Plugins
+## Plugins
 [params.plugins]
 
   # CSS Plugins
